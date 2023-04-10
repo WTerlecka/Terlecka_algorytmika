@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Terlecka_algorytmika</string>
+    <string name="_0_ms">0 ms</string>
+    <string name="wzorzec">wzorzec</string>
+    <string name="r_k">R-K</string>
+    <string name="b_m">B-M</string>
+    <string name="ilo_znak_w">ilość znaków</string>
+    <string name="kmp">KMP</string>
+    <string name="brute_force">Brute force</string>
+</resources>
